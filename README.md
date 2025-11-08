@@ -3,17 +3,17 @@ A Python web scraping toolkit for collecting and organizing publicly available p
 
 🎯 **Project Purpose**  
 This project demonstrates:  
-**Technical Skills**: Web scraping, data extraction, and content organization using Python  
-**Personal Development**: Deep interest in leadership development and executive coaching  
-**Learning Application**: Creating a searchable corpus for studying leadership scenarios and coaching techniques
+- **Technical Skills**: Web scraping, data extraction, and content organization using Python  
+- **Personal Development**: Deep interest in leadership development and executive coaching  
+- **Learning Application**: Creating a searchable corpus for studying leadership scenarios and coaching techniques
 
 🛠️ **Technical Features**  
 Core Capabilities  
-**RSS Feed Integration**: Automated episode discovery from HBR's podcast feed  
-**Intelligent Web Scraping**: Robust HTML parsing with BeautifulSoup4  
-**Error Handling**: Retry mechanisms and graceful failure handling  
-**Data Organization**: Automatic grouping by season/year with structured output  
-**Rate Limiting**: Respectful scraping with request throttling  
+- **RSS Feed Integration**: Automated episode discovery from HBR's podcast feed  
+- **Intelligent Web Scraping**: Robust HTML parsing with BeautifulSoup4  
+- **Error Handling**: Retry mechanisms and graceful failure handling  
+- **Data Organization**: Automatic grouping by season/year with structured output  
+- **Rate Limiting**: Respectful scraping with request throttling  
 
 **Key Technologies**
 - requests - HTTP requests and session management
@@ -25,7 +25,7 @@ Core Capabilities
 🚀 **Usage**  
 **Step 1: Discover Episodes**  
 python step1_discover_episodes.py  
-This script:  
+This script: 
 - Fetches the complete episode list from HBR's RSS feed
 - Organizes episodes by year and season
 - Generates episodes_urls.json with structured metadata
@@ -33,13 +33,13 @@ This script:
 
 **Step 2: Extract Transcripts**  
 python step2_extract_transcripts.py  
-This script:  
+This script: 
 - Reads episode URLs from the JSON file
 - Extracts publicly available transcripts from each episode page
 - Organizes content by season with episode metadata
 - Saves consolidated text files per season
 
-📊** What I've Learned**  
+📊**What I've Learned**
 **Technical Insights**  
 - Web Scraping Best Practices: Implementing retry logic, respecting rate limits, and handling various HTML structures
 - Data Pipeline Design: Two-stage process separating discovery from extraction for better modularity
@@ -69,7 +69,7 @@ Respect: Implements rate limiting to avoid server strain
 🤝 **Contributing**  
 While this is a personal learning project, suggestions for improving the scraping logic or data organization are welcome!
 
-📬 Contact  
+📬**Contact**  
 Interested in discussing leadership development or Python web scraping? Feel free to reach out!
 
 Note: This project is intended for personal educational use. Please review HBR's terms of service and respect copyright when using any web scraping tool.
