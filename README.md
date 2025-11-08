@@ -1,10 +1,10 @@
 # HBR-Podcast-Transcript-Scraper
 A Python web scraping toolkit for collecting and organizing publicly available podcast transcripts from Harvard Business Review's "Coaching Real Leaders" series for personal learning and leadership development study.
 
-🎯 **Project Purpose**
+🎯 **Project Purpose**  
 This project demonstrates:
-**Technical Skills**: Web scraping, data extraction, and content organization using Python
-**Personal Development**: Deep interest in leadership development and executive coaching
+**Technical Skills**: Web scraping, data extraction, and content organization using Python  
+**Personal Development**: Deep interest in leadership development and executive coaching  
 **Learning Application**: Creating a searchable corpus for studying leadership scenarios and coaching techniques
 
 🛠️ **Technical Features**
