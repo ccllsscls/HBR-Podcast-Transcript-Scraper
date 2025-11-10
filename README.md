@@ -1,5 +1,7 @@
 # HBR-Podcast-Transcript-Scraper
 A Python web scraping toolkit for collecting and organizing publicly available podcast transcripts from Harvard Business Review's "Coaching Real Leaders" series for personal learning and leadership development study.
+HBR "Coaching RealityLeaders" Podcast link: https://hbr.org/2020/12/podcast-coaching-real-leaders
+<img width="1673" height="838" alt="image" src="https://github.com/user-attachments/assets/33133430-3679-4792-88ea-026033eed016" />
 
 🎯 **Project Purpose**  
 This project demonstrates:  
